@@ -1,5 +1,20 @@
 /* styles.css - Let's make our web development journey fun and stylish! */
 
+p {
+  color: yellowgreen;
+
+}
+
+
+.headerclass{
+  font-size: 100px;
+}
+
+
+
+
+
+
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
